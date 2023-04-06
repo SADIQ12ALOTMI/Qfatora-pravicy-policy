@@ -1,4 +1,4 @@
-Privacy Policy for QFatora Mobile App
+# Privacy Policy for QFatora Mobile App
 
 Effective Date:The history is long
 
@@ -14,43 +14,43 @@ Non-Personal Information: We may collect non-personal information such as your d
 
 Location Information: We may collect your location information through your device's GPS to provide location-based services.
 
-How We Use Your Information
+# How We Use Your Information?
 
-We may use the information we collect from you to:
+# We may use the information we collect from you to:
 
-Provide and improve our App, products, and services.
+- Provide and improve our App, products, and services.
 
-Process your transactions and send you invoices and receipts.
+- Process your transactions and send you invoices and receipts.
 
-Communicate with you about our App, products, and services.
+- Communicate with you about our App, products, and services.
 
-Send you promotional and marketing materials about our App, products, and services.
+- Send you promotional and marketing materials about our App, products, and services.
 
-Personalize your experience with our App.
+- Personalize your experience with our App.
 
-Detect, prevent, and address technical issues and fraudulent or illegal activities.
+- Detect, prevent, and address technical issues and fraudulent or illegal activities.
 
-How We Share Your Information
+# How We Share Your Information?
 
 We may share your information with third-party service providers who help us provide our App, products, and services. We may also share your information with law enforcement or other government agencies when required by law or to protect our legal interests.
 
 We do not sell your information to third parties.
 
-How We Protect Your Information
+# How We Protect Your Information?
 
 We take reasonable steps to protect the information we collect from you against unauthorized access, use, or disclosure. However, we cannot guarantee the security of your information.
 
-Your Choices
+# Your Choices
 
-You may choose to opt-out of receiving promotional and marketing materials from us by following the instructions provided in the materials.
+- You may choose to opt-out of receiving promotional and marketing materials from us by following the instructions provided in the materials.
 
-You may also choose to disable location services on your device, although this may limit your use of certain features of our App.
+- You may also choose to disable location services on your device, although this may limit your use of certain features of our App.
 
-Updates to this Privacy Policy
+# Updates to this Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-Contact Us
+# Contact Us
 
 If you have any questions or concerns about our Privacy Policy, please contact us at sadiqalotmy00@gmail.com.
 
